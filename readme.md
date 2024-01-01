@@ -1,5 +1,12 @@
 # Three.js Journey
 
+Going over React basics. Lesson included:
+
+Two way binding;
+Local storage;
+Hooks: useState, useEffect, useMemo, useRef;
+an Async API call using Fetch
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
